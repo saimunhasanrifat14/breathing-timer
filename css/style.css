@@ -1,0 +1,13 @@
+body{
+    background-color: #010017;
+    width: 100%;
+    height: 100vh;
+}
+.timer{
+    display: flex;
+    gap: 8px;
+}
+.text{
+    font-size: 40px;
+    font-weight: 600px;
+}
