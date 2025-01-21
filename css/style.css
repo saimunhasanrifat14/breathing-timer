@@ -29,11 +29,12 @@ body{
     font-size: 20px;
     border-radius: 50%;
 }
-.lap-btn{
+.Reset-btn{
     background-color: #2e2e2e58;
     color: gray;
 }
 .start-btn{
     background-color: #002100;
     color: #007900;
+    transition: all ease .3s;
 }
